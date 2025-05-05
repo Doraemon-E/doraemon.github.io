@@ -28,7 +28,7 @@ timeline: false
 ::: warning 我的邮箱
 :::
 
-- 635016322@qq.com
+- tchen.life@gmail.com
 
 ::: danger 免责申明
 :::
